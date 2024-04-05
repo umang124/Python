@@ -1,0 +1,2 @@
+2,Sports: Football, Debate Club: Member
+3,Music: Piano, Drama Club: President
